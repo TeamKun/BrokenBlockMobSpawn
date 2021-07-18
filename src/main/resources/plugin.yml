@@ -1,0 +1,13 @@
+name: BrokenBlockMobSpawn
+version: ${project.version}
+main: net.kunmc.lab.brokenblockmobspawn.BrokenBlockMobSpawn
+api-version: 1.16
+authors: [ fooaaa6 ]
+description: brokenblockmospawn
+
+commands:
+  BBMS:
+    description: BBMS Plugin config
+    permission: op
+    usage: |-
+      /BBMS kakuritsu <int kakuritsu>
